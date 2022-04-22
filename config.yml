@@ -1,0 +1,18 @@
+#                  _       _     
+#                 | |     | |    
+#  __  _____  __ _| | __ _| |__  
+#  \ \/ / _ \/ _` | |/ _` | '_ \ 
+#   >  <  __/ (_| | | (_| | | | |
+#  /_/\_\___|\__,_|_|\__,_|_| |_|
+
+# Duration:
+cooldown: 10
+
+# Message:
+message: "§lCOOLDOWN §rWait {cooldown} seconds before using another ender pearl."
+
+# Tags:
+# {cooldown} - How much time is left for the cooldown to end.
+
+# Note:
+# Add the word 'second(s)' after '{cooldown}' to add more detail into the message.
