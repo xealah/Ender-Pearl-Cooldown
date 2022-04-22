@@ -1,0 +1,8 @@
+---
+name: EnderPearlCooldown
+author: xealah
+version: 1
+main: xealah\EnderPearlCooldown\Main
+api:
+- 4.0.0
+...
